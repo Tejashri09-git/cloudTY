@@ -1,2 +1,0 @@
-name , rollno
-teju,22
